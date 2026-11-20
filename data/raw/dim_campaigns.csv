@@ -1,0 +1,7 @@
+campaign_id,campaign_name,source_id,budget_inr,start_date,end_date,target_audience
+CMP-01,SaaS Growth Sprint Q1,SRC-04,280000.0,2024-01-10,2024-03-31,B2B Tech Leaders
+CMP-02,Diwali Special Offer,SRC-02,220000.0,2024-10-01,2024-11-15,Mid-Market Retailers
+CMP-03,Tech Summit Webinar 2024,SRC-03,150000.0,2024-04-01,2024-06-30,Engineering Directors
+CMP-04,Google High Intent Search,SRC-04,350000.0,2024-01-15,2024-12-15,Active Software Buyers
+CMP-05,LinkedIn B2B Leadership,SRC-02,250000.0,2024-03-01,2024-09-30,C-Suite & Founders
+CMP-06,Partner Referral Drive,SRC-05,100000.0,2024-02-01,2024-11-30,Existing Client Networks

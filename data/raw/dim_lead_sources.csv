@@ -1,0 +1,8 @@
+source_id,source_name,channel_type,cost_category
+SRC-01,Website,Inbound,Organic
+SRC-02,Social Media,Inbound,Paid
+SRC-03,Email Marketing,Outbound,Hybrid
+SRC-04,Paid Advertising,Inbound,Paid
+SRC-05,Referrals,Referral,Organic
+SRC-06,Organic Search,Inbound,Organic
+SRC-07,Direct Traffic,Inbound,Organic
